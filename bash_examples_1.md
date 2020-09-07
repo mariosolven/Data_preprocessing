@@ -22,10 +22,11 @@ Bash Examples 1
 + `man <command>`: Describes the function of an specified command.
 + `find .-name <file>`: Finds files starting with 'file' name.  
 
-### Examples with `find`
 
-`find . -name "*.py"`
-`find /home -iname test.txt`
-`find /tmp -type d -empty`
-`find /home -iname MacBook`
-`find -name "*.xls" -type f`
+### Examples with 'find' command
+
+- `find . -name "*.py"`
+- `find /home -iname test.txt`
+- `find /tmp -type d -empty`
+- `find /home -iname MacBook`
+- `find -name "*.xls" -type f`
