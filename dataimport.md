@@ -13,9 +13,7 @@ A data table is a range of cells in which you can change values in some in some 
 + **Dates**: it stores the calendar date as values.
 + **Strings**: it's traditionally a sequence of characters, either as a literal constant or as some kind of variable.
 
-
-## Data formats
-
+## Data formats
 - **.csv**: a Comma Separated Values (CSV) file is a plain text file that contains a list of data.
 - **.json**: a JavaScript Object Notation (JSON) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate.
 - **.xml**: is an Extensible Markup Language (XML) data file. It is formatted much like an .HTML document, but uses custom tags to define objects and the data within each object. 
