@@ -1,6 +1,6 @@
-# DATA IMPORTATION
+# Data Importation
 
-## Data table
+## Data table
 
 A data table is a range of cells in which you can change values in some in some of the cells and come up with different answers to a problem.
 
@@ -38,7 +38,7 @@ It is used to safeguard proprietary and personal data in transit and at rest. Mo
 + *Applicability Statement 2 (AS2)*: facilitates the ability to exchange AS2 EDI messages and other types of data over the HTTP or HTTPS protocol.
 
 
-## Procedures for Data importing
+## Procedures for Data importing
 
 + *From an .csv:* 
 ```py
