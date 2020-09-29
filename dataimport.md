@@ -22,13 +22,13 @@ A data table is a range of cells in which you can change values in some in some 
 - **.xls**: an XLS file is a spreadsheet file created by Microsoft Excel or another spreadsheet program that contains one or more worksheets, which store and display data in a table format.
 
 
-## Local vs remote repositories
+## Local vs remote repositories
 
 + **URL**: a URL uniquely describes the location of a resource on the Internet. 
 + **APIS**: is a data access layer that defines a generic representation of a data store. 
 
 
-## Secure Data transfer protocols
+## Secure Data transfer protocols
 
 It is used to safeguard proprietary and personal data in transit and at rest. Most secure file sharing methods use standard protocols, including:
 
